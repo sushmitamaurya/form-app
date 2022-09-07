@@ -48,7 +48,7 @@ class HomePage extends StatelessWidget {
                           height: 20,
                         ),
                         TextField(
-                          decoration: InputDecoration(hintText: 'Surname'),
+                          decoration: InputDecoration(hintText: 'Address'),
                         ),
                         SizedBox(
                           height: 20,
